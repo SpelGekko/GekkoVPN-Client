@@ -1,0 +1,32 @@
+{
+  "name": "vpn-client",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "tauri": "tauri"
+  },
+  "dependencies": {
+    "@tauri-apps/plugin-shell": "^2.2.1",
+    "@tauri-apps/plugin-updater": "^2.7.0",
+    "@types/ping": "^0.4.4",
+    "next": "15.2.4",
+    "ping": "^0.4.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tauri": "^0.15.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@tauri-apps/api": "^2.4.1",
+    "@tauri-apps/cli": "^2.4.0",
+    "@types/node": "^20.17.30",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
