@@ -3,6 +3,23 @@
 version = 3
 
 [[package]]
+name = "GekkoVPN"
+version = "0.1.1"
+dependencies = [
+ "is_elevated",
+ "keyring",
+ "log",
+ "serde",
+ "serde_json",
+ "tauri",
+ "tauri-build",
+ "tauri-plugin-log",
+ "tauri-plugin-updater",
+ "tokio",
+ "winreg 0.50.0",
+]
+
+[[package]]
 name = "addr2line"
 version = "0.24.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -100,23 +117,6 @@ name = "anyhow"
 version = "1.0.97"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "dcfed56ad506cb2c684a14971b8861fdc3baaaae314b9e5f9bb532cbe3ba7a4f"
-
-[[package]]
-name = "app"
-version = "0.1.0"
-dependencies = [
- "is_elevated",
- "keyring",
- "log",
- "serde",
- "serde_json",
- "tauri",
- "tauri-build",
- "tauri-plugin-log",
- "tauri-plugin-updater",
- "tokio",
- "winreg 0.50.0",
-]
 
 [[package]]
 name = "arbitrary"
