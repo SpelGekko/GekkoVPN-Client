@@ -5,7 +5,7 @@
     "platforms": {
       "windows-x86_64": {
         "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeDIwUFc1Q1BxQlJhdm1MTVd3VUhVbXJPS215UGRNbVFJRDNMMGpEWVA4OUFHRkp6RzRpVUdNdFFlcnduRDExNXpOd0tPUUNQcnJSTGJsY0pWcjBmYThEd3hrUHFJVlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzOTU4NjkwCWZpbGU6R2Vra29WUE5fMC4xLjFfeDY0X2VuLVVTLm1zaQpCNmVZQ1JRZERtb0lNdzA4MVpkMTkyMXZLdFVWdHpBZ0tFenBacDA2cFNTTjdhUUYweFF1ZTFEOW5sTk5oU28rYStDMUIvSzRVU1ZYWUU4M2dMRFlBZz09Cg==",
-        "url": "https://github.com/SpelGekko/GekkoVPN/releases/download/v0.1.1/GekkoVPN_0.1.1_x64_en-US.msi"
+        "url": "https://github.com/SpelGekko/GekkoVPN-Client/releases/download/v0.1.1/GekkoVPN_0.1.1_x64_en-US.msi"
       }
     }
   }
