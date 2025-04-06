@@ -1,0 +1,11 @@
+{
+    "version": "0.1.0",
+    "notes": "Added Auto Update Feature",
+    "pub_date": "2025-04-06T00:00:00Z",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeDIwUFc1Q1BxQlV1M0YrWitmQUNQS3U0RWlMM1RqV2RWaGpFVEZHSFJXcVN0QzZqWkR0ekhRNVBKV1ZWTXJpenY0cmg3Yko5Zml2Y3BSOWJpcXAyemVyaENQVDk5amdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzQzOTI3NzMxCWZpbGU6R2Vra29WUE5fMC4xLjBfeDY0X2VuLVVTLm1zaQpKYnBvVWNDMmNjVnZrVVorTUZWUWl2WFFSeVlHMkszQ0tMOVRBZnlFTHdIci8zWHpFM2dkQzhrTy9wWEQ0KzBSOE1iR0lyTGp0OGd1eGJjWTRlampBZz09Cg==",
+        "url": "https://github.com/SpelGekko/GekkoVPN/releases/download/v0.1.0/GekkoVPN_0.1.0_x64_en-US.msi"
+      }
+    }
+  }
